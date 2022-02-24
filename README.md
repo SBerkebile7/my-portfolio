@@ -1,4 +1,4 @@
-# C20-React-Portfolio
+# My-Portfolio
 
 =======
 
@@ -14,10 +14,10 @@ My personal portfolio, showcasing some of my recent projects and assignments for
 * Node
 
 ## GitHub Repository
-https://github.com/SBerkebile7/C20-React-Portfolio
+https://github.com/SBerkebile7/my-portfolio
 
 ## Heroku Website
-http://sberkebile7.github.io/C20-React-Portfolio
+https://spencers-portfolio.herokuapp.com/#/
 
 ## Contribution
 Made by Spencer

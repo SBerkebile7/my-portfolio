@@ -1,5 +1,5 @@
 import React from 'react';
-import PDF from '../../assets/Resume.pdf';
+import PDF from '../../assets/SB Resume 2022.pdf';
 
 function Resume() {
     return (
