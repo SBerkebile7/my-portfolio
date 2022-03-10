@@ -1,8 +1,6 @@
 import React from 'react';
 import project1 from '../../assets/img/project-1.jpg'
 import project2 from '../../assets/img/project-2.JPG'
-import assignment21 from '../../assets/img/assignment-21.jpg'
-import assignment14  from '../../assets/img/assignment-14.jpg'
 import theBreadSite from '../../assets/img/the-bread-site.jpg'
 
 function Portfolio() {
@@ -66,7 +64,7 @@ function Portfolio() {
                                     <p>Users are able to create an account and once logged in create blog posts about whatever is on their mind.</p>
                                 </div>
                             </div>
-                        </div>
+                        {/* </div>
                         <div class="right-image">
                             <div class="row">
                                 <div class="col-md-6">
@@ -98,7 +96,7 @@ function Portfolio() {
                                     <p>Users are able to log in, create thoughts and leave comments on the thoughts of others.</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                         {/* <div class="right-image">
                             <div class="row">
                                 <div class="col-md-6">
