@@ -64,8 +64,8 @@ function Portfolio() {
                                     <p>Users are able to create an account and once logged in create blog posts about whatever is on their mind.</p>
                                 </div>
                             </div>
-                        {/* </div>
-                        <div class="right-image">
+                        </div>
+                        {/* <div class="right-image">
                             <div class="row">
                                 <div class="col-md-6">
                                     <h2 class="hidden-sm hidden-xs">Book Search Engine</h2>
