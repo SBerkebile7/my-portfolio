@@ -8,7 +8,7 @@ function About() {
                     <div class="left-content">
                         <div class="inside-content">
                             <h4>Career shifting at 30 isn't easy, but neither is making any difficult change</h4>
-                            <h5></h5>
+                            {/* <h5>Realizing I'd hit a glass ceiling I jumped into the world of software engineering in the hopes of changing my life. Recognizing I found something I am passionate about, I am more focused than ever on making major moves to improve my life for myself and my wife.</h5> */}
                         </div>
                     </div>
                 </div>
